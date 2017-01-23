@@ -1,0 +1,23 @@
+.img-menu{
+	width: 30px;
+}
+
+.dropmenu-left{
+	text-align: left;
+}
+
+.conteudo{
+	background-color: #F2F2F2 ;
+}
+
+.sobreloja{
+	background-color: #BCBCBC ;
+	padding: 10%;
+	color: white ;
+}
+
+div.descr{
+max-width: 300px;
+max-height: 150px;
+overflow: auto;
+}
